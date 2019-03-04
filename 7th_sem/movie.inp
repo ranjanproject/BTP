@@ -1,0 +1,40 @@
+ set title "time=   100.000000     "
+ set xrange [-2.5:2.5]
+plot"fort.1000"w l,"pot.out"  using 1:2    w l
+ pause -1
+ set title "time=   200.000000     "
+ set xrange [-2.5:2.5]
+plot"fort.2000"w l,"pot.out"  using 1:2    w l
+ pause -1
+ set title "time=   300.000000     "
+ set xrange [-2.5:2.5]
+plot"fort.3000"w l,"pot.out"  using 1:2    w l
+ pause -1
+ set title "time=   400.000000     "
+ set xrange [-2.5:2.5]
+plot"fort.4000"w l,"pot.out"  using 1:2    w l
+ pause -1
+ set title "time=   500.000000     "
+ set xrange [-2.5:2.5]
+plot"fort.5000"w l,"pot.out"  using 1:2    w l
+ pause -1
+ set title "time=   600.000000     "
+ set xrange [-2.5:2.5]
+plot"fort.6000"w l,"pot.out"  using 1:2    w l
+ pause -1
+ set title "time=   700.000000     "
+ set xrange [-2.5:2.5]
+plot"fort.7000"w l,"pot.out"  using 1:2    w l
+ pause -1
+ set title "time=   800.000000     "
+ set xrange [-2.5:2.5]
+plot"fort.8000"w l,"pot.out"  using 1:2    w l
+ pause -1
+ set title "time=   900.000000     "
+ set xrange [-2.5:2.5]
+plot"fort.9000"w l,"pot.out"  using 1:2    w l
+ pause -1
+ set title "time=   1000.00000     "
+ set xrange [-2.5:2.5]
+plot"fort.10000"w l,"pot.out"  using 1:2    w l
+ pause -1
